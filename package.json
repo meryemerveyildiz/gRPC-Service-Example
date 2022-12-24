@@ -1,0 +1,24 @@
+{
+  "name": "recycle-coin-grpc-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meryemerveyildiz/Recycle-Coin-gRPC-Service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meryemerveyildiz/Recycle-Coin-gRPC-Service/issues"
+  },
+  "homepage": "https://github.com/meryemerveyildiz/Recycle-Coin-gRPC-Service#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.4",
+    "grpc": "^1.24.2"
+  }
+}
